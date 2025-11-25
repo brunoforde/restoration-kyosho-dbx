@@ -34,7 +34,7 @@ Due to the prolonged storage time, a full "nut-and-bolt" overhaul was ruled out 
 
 ### Visual Management (Kanban)
 Task granularity, procurement, and blockers are managed via the **Projects** tab in this repository.
-👉 **[CLICK HERE TO VIEW THE PROJECT KANBAN BOARD]([INSIRA SEU LINK AQUI])**
+👉 **[CLICK HERE TO VIEW THE PROJECT KANBAN BOARD]([https://github.com/users/brunoforde/projects/2])**
 
 ---
 
